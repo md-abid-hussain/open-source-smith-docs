@@ -67,5 +67,3 @@ Not all stories end. Some become the voices that guide the next.
 ---
 
 *End*
-
-this has no end
